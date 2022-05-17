@@ -1,0 +1,19 @@
+#divform{
+    margin-top:86px;
+    border : 2px solid black;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    background-color:beige;
+    width : "50px";
+    height : "400px";
+}
+body{
+    background-color:antiquewhite;
+}
+input{
+    font-size: 16px;
+    border : 1px solid black;
+    padding : 5px;
+}
